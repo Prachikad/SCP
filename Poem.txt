@@ -4,6 +4,7 @@ Rainbow Colours
 Violet
 Indigo
 Blue
+earth
 Green
 Yellow
 Orange
