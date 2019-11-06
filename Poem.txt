@@ -1,5 +1,6 @@
 Rainbow
 
+Rainbow Colours
 Violet
 Indigo
 Blue
